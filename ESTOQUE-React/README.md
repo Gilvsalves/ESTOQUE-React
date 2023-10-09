@@ -1,3 +1,5 @@
+# Lembre-se de Acrescentar a pasta node_modules.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
